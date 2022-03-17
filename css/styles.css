@@ -1,0 +1,30 @@
+body{
+    background-image: url("imagen/fondos-hd-de-paredes-Fondosdepantalla.top-3.jpg"); 
+    background-size: auto;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+    
+}
+
+.text1{
+    font-size: 100px;
+    text-shadow: 4px 9px 16px rgba(247, 241, 241, 0.767);
+    margin: 10px;
+}
+
+
+.header{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.card{
+   margin: 5%;
+   box-shadow: 20px 16px 30px 3px rgb(52, 48, 63);
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 15px;
+}
+
+
+
+
